@@ -1,5 +1,5 @@
 - Hi, I’m @CJohnson5781
-- I’m currently learning Full-Stack Web Development and specializing in Javascript.
+- I am a Full-Stack Web Developer specializing in Javascript/Typescript and React.
 - I am a student at Bethel School of Technology (BST) in Redding, CA.
 - 📫 How to reach me ...
 
