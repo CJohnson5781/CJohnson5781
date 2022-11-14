@@ -1,6 +1,6 @@
 - Hi, I’m @CJohnson5781
 - I am a Full-Stack Web Developer specializing in Javascript/Typescript and React.
-- I am a student at Bethel School of Technology (BST) in Redding, CA.
+- Graduated from Bethel School of Technology (BST) in Redding, CA.
 - 📫 How to reach me ...
 
 <!---
